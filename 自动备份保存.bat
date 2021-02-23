@@ -9,5 +9,6 @@ git status
 git switch master
 git merge dev
 git push origin master
+pause
 echo ±£´æÍê³É
 git switch dev
